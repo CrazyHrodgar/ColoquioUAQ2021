@@ -3,6 +3,7 @@ Códigos y diapositivas del curso Aprendiendo a programar con Python
 
 
 El cuaderno Cheatnotebook.ipynb contiene toda la información (en código) sobre los temas vistos durante el curso. También contiene información adicional sobre cada tipo de dato en específico y algunos consejos y tips útiles al momento de trabajar con ellos.
+La base de datos para la parte de Pandas la encuentran en el archivo Pokemon.csv
 
 El cuaderno dudas_especificas.ipynb contiene ciertos códigos para cuestiones muy especificas con las librerías Numpy, Matplotlib y Pandas.
 
