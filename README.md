@@ -8,6 +8,6 @@ El cuaderno dudas_especificas.ipynb contiene ciertos códigos para cuestiones mu
 
 El cuaderno TypesQuizz.ipynb es un breve cuestionario sobre los tipos de datos disponibles en Python. Con el pueden evaluar su comprensión y conocimiento de los mismos.
 
-Las diapositivas del curso las pueden consultar en el archivo .pdf de este repositorio.
+Las diapositivas del curso las pueden consultar en el archivo Introducción a Python.pdf de este repositorio.
 
 Cualquier duda o comentario pueden enviarla a la información de contacto que está en la primera diapositiva del PDF.
